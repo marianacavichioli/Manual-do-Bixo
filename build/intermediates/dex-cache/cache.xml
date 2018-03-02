@@ -1,0 +1,365 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/mariana/Desktop/manual-do-bixo/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appinvite/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="63ec6e9f4fe5482a7447d0f3091b8e543a02554c">
+        <dex dex="/home/mariana/Desktop/manual-do-bixo/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-appinvite-7.5.0_18844f754d98c56506bcc72a1f2365d735c518fb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mariana/Desktop/manual-do-bixo/app/build/intermediates/exploded-aar/com.melnykov/floatingactionbutton/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="8c6ebb7d087d1a30bf84356bd2aecf85309fc024">
+        <dex dex="/home/mariana/Desktop/manual-do-bixo/app/build/intermediates/pre-dexed/debug/com.melnykov-floatingactionbutton-1.3.0_218a150d4238bb8a6d8e286433dfe6302b38ba8a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mariana/Desktop/manual-do-bixo/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="8e3a972f28b8bae817e382257ba177a31bcadbbc">
+        <dex dex="/home/mariana/Desktop/manual-do-bixo/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-cast-7.5.0_5ee424c8b41a90c211ef6a1000203af2f7f737d5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mariana/Desktop/manual-do-bixo/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="8d736fefa22d896e84a268354b3ed48a42663150">
+        <dex dex="/home/mariana/Desktop/manual-do-bixo/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-gcm-7.5.0_ebb43bcbea5ab5a13d0345e2eb12126bb4c1cd42.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mariana/.gradle/caches/modules-2/files-2.1/com.nineoldandroids/library/2.4.0/e9b63380f3a242dbdbf103a2355ad7e43bad17cb/library-2.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="/home/mariana/Desktop/manual-do-bixo/app/build/intermediates/pre-dexed/debug/library-2.4.0_f42f8080fdcf77268a9b6c7fd9374f2c9811cf15.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mariana/Desktop/manual-do-bixo/app/build/intermediates/exploded-aar/com.mixpanel.android/mixpanel-android/4.9.8/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="fea30cb1bec0f8856278753a53db087d52ea6c45">
+        <dex dex="/home/mariana/Desktop/manual-do-bixo/app/build/intermediates/pre-dexed/debug/com.mixpanel.android-mixpanel-android-4.9.8_f1996a73f2f17aa9cdcd0014b5ad243755aea510.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mariana/Desktop/manual-do-bixo/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="a64026daf4819a589aea776f5deb19b257a104d1">
+        <dex dex="/home/mariana/Desktop/manual-do-bixo/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-25.4.0_cdb093e255b71dbed1bdde9af8a5296e838864f0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mariana/Desktop/manual-do-bixo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="a7a0aa678c3bbadb67fb41df9e107f7ee9087902">
+        <dex dex="/home/mariana/Desktop/manual-do-bixo/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-25.4.0_9ea1b4154dc2b355630286a2b130866456cd6ff7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mariana/Desktop/manual-do-bixo/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="06a42becc33232ec0ee125161da68c1829c9f8fd">
+        <dex dex="/home/mariana/Desktop/manual-do-bixo/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-maps-7.5.0_8334bd4406bc0818efd9c5d5cc740396c5e0af92.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mariana/Desktop/manual-do-bixo/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-fitness/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="a172852a35ff919e85b9b7f14bbc15c5bee25520">
+        <dex dex="/home/mariana/Desktop/manual-do-bixo/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-fitness-7.5.0_6a042e1926f5585abfe6e67ddb8fb024d6c842f6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mariana/Desktop/manual-do-bixo/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-drive/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f44d03c138cb6488fdbaa65e3a7e5878861a56d8">
+        <dex dex="/home/mariana/Desktop/manual-do-bixo/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-drive-7.5.0_baece6a30c3cf7e035a53afd213beb6d40c69844.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mariana/Desktop/manual-do-bixo/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/22.0.0/jars/libs/internal_impl-22.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="ba3df4eb0a630d7de294f0e48d3f9267d279b784">
+        <dex dex="/home/mariana/Desktop/manual-do-bixo/app/build/intermediates/pre-dexed/debug/internal_impl-22.0.0_daa033e674a1224e68e441cb2d8813d2576c3d4e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mariana/Desktop/manual-do-bixo/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wallet/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="6836d188602ec5382d1967c58b00960eb8ff8773">
+        <dex dex="/home/mariana/Desktop/manual-do-bixo/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-wallet-7.5.0_cbabf2cda8706fdbc6939f775d521e1668f3dafe.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mariana/Desktop/manual-do-bixo/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="1e98ef3f124bb7a11f8575f9ff5dfea330b61b6f">
+        <dex dex="/home/mariana/Desktop/manual-do-bixo/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-location-7.5.0_e75c0adf288800e5256d034dbd54942d1434ecbd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mariana/Desktop/manual-do-bixo/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-nearby/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="6440e5e5cfe368f9bff3c537fb8988048069cb33">
+        <dex dex="/home/mariana/Desktop/manual-do-bixo/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-nearby-7.5.0_cbee34a808826c47ef5b4481935a5a361356a102.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mariana/Desktop/manual-do-bixo/app/build/intermediates/exploded-aar/com.android.support/transition/25.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="40a6b8f05124eb9e6012e18b80a6dbd13440e283">
+        <dex dex="/home/mariana/Desktop/manual-do-bixo/app/build/intermediates/pre-dexed/debug/com.android.support-transition-25.4.0_92e7c5d23dce01b9c0a978d0b94cd2c6066119a5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mariana/Desktop/manual-do-bixo/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="b1e0cd070d7cf659ece90e919bff76e7ddc32532">
+        <dex dex="/home/mariana/Desktop/manual-do-bixo/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-25.4.0_9092082e0340fde0a0d59df8d39a8ba4a7da0d65.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mariana/.gradle/caches/modules-2/files-2.1/com.android.support/support-annotations/25.4.0/f6a2fc748ae3769633dea050563e1613e93c135e/support-annotations-25.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f6a2fc748ae3769633dea050563e1613e93c135e">
+        <dex dex="/home/mariana/Desktop/manual-do-bixo/app/build/intermediates/pre-dexed/debug/support-annotations-25.4.0_d4b5498adbe5fb770962d82d870440448575ea45.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mariana/Desktop/manual-do-bixo/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="b77e50b3c31d0fc64148530f7077f79ec114b5b9">
+        <dex dex="/home/mariana/Desktop/manual-do-bixo/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-25.4.0_948455258bdcd8b475fa3778d89de0ffdbb86666.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mariana/Desktop/manual-do-bixo/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appstate/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="68c140702c7242d914655bcb3164d9e8c45b84cb">
+        <dex dex="/home/mariana/Desktop/manual-do-bixo/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-appstate-7.5.0_295ceb5162be2ed7bdae355935b13b6f21c5aad7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mariana/Desktop/manual-do-bixo/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-identity/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d405025c600055237c171a0bbabaa49d69696573">
+        <dex dex="/home/mariana/Desktop/manual-do-bixo/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-identity-7.5.0_057becfa598b7fd03265a01127e2a2fb30bca41d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mariana/Desktop/manual-do-bixo/app/build/intermediates/exploded-aar/com.android.support/design/25.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="cad1364721fc716a39bdc351d3637edb634c9aa5">
+        <dex dex="/home/mariana/Desktop/manual-do-bixo/app/build/intermediates/pre-dexed/debug/com.android.support-design-25.4.0_d204d2e0ec12593ff1779e9f4c1ccd160f8fcad7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mariana/Desktop/manual-do-bixo/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="e7b35244f50663b3f8d150714bca9ecd7a290da1">
+        <dex dex="/home/mariana/Desktop/manual-do-bixo/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-analytics-7.5.0_3f7ad8ab90723dc1f989987e8da06a94b072e68f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mariana/Desktop/manual-do-bixo/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="05e3d15c623cd98f0eb43c8249fb6151fae0786c">
+        <dex dex="/home/mariana/Desktop/manual-do-bixo/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-25.4.0_b3aeaad29359a168c609f9182e4ee8df68c6a22a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mariana/Desktop/manual-do-bixo/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="a78183f30e769a98ab4820794f597763088d3065">
+        <dex dex="/home/mariana/Desktop/manual-do-bixo/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-base-7.5.0_1795fda5af90570bec9fb46edb4a6505271bbc4d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mariana/Desktop/manual-do-bixo/app/build/intermediates/exploded-aar/com.github.championswimmer/Android-SocialButtons/1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="466448960570bf1083a050d9a44a738567497aab">
+        <dex dex="/home/mariana/Desktop/manual-do-bixo/app/build/intermediates/pre-dexed/debug/com.github.championswimmer-Android-SocialButtons-1.0_b22a0eecc9a909d34a75ae7edd75921a6c1eb467.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mariana/Desktop/manual-do-bixo/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d29e451fd5bcc265989bf80afd4f149d95d72e7d">
+        <dex dex="/home/mariana/Desktop/manual-do-bixo/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-25.4.0_a57132ad3207c76e962a15939bb7280290cd841f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mariana/Desktop/manual-do-bixo/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="e04f28ac2dd9bbe48ced6fc87fedf46c2586f5d6">
+        <dex dex="/home/mariana/Desktop/manual-do-bixo/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-25.4.0_f3825c88431fd9ba7dfb9520612fa4d8f88d9ec0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mariana/Desktop/manual-do-bixo/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c2deeac83ffa1304264bc755c2ddb84e7a7fa239">
+        <dex dex="/home/mariana/Desktop/manual-do-bixo/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-25.4.0_85113a7e3403461e8f1aba77f8b54535ca3b3c9d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mariana/Desktop/manual-do-bixo/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-games/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="02bac2dc792d78241077861566f2c82da955e7fa">
+        <dex dex="/home/mariana/Desktop/manual-do-bixo/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-games-7.5.0_5b77e8de3f4f10aa37e25be7a9b9db1181107a76.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mariana/Desktop/manual-do-bixo/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-safetynet/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="1a6411087ab88ce5542f593e63a2752b6b0d6f1a">
+        <dex dex="/home/mariana/Desktop/manual-do-bixo/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-safetynet-7.5.0_4e316bdf68933410d2d6ee231dd85c79804aa817.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mariana/Desktop/manual-do-bixo/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="69dd177337ead693c408c8dddc9546bb6f1244fa">
+        <dex dex="/home/mariana/Desktop/manual-do-bixo/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-wearable-7.5.0_6aa6d9b5a85983ce1744a1458bcf96d17875d9b5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mariana/Desktop/manual-do-bixo/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/22.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="a1372c17fccacca753d3951d3ad820571cbce075">
+        <dex dex="/home/mariana/Desktop/manual-do-bixo/app/build/intermediates/pre-dexed/debug/com.android.support-mediarouter-v7-22.0.0_f68938c0e87c2cfab3711496c77b870ee19627d9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mariana/Desktop/manual-do-bixo/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="29ebc7e04d877062317c8cc0e68b20f0c1fcda66">
+        <dex dex="/home/mariana/Desktop/manual-do-bixo/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-ads-7.5.0_66f6afcd744deed042543851bfc81889cd2292a9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mariana/Desktop/manual-do-bixo/app/libs/rollbar-android-0.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f5296de8688a9113c9c6c27213339753177b9746">
+        <dex dex="/home/mariana/Desktop/manual-do-bixo/app/build/intermediates/pre-dexed/debug/rollbar-android-0.2.0_51435491874ecac56cdf4b54855c9b42d86cb047.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mariana/Desktop/manual-do-bixo/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f02127a85abd52a2cd526d4c2409f21969f80ee8">
+        <dex dex="/home/mariana/Desktop/manual-do-bixo/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-appindexing-7.5.0_629148e250086528409970102e43e00670b88419.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mariana/Desktop/manual-do-bixo/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/mariana/Desktop/manual-do-bixo/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-25.4.0_e4b40236b2a680473fd2cebd4da0953051557f69.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mariana/Desktop/manual-do-bixo/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="4961be1437163ab598620a3c907c0f3432936f51">
+        <dex dex="/home/mariana/Desktop/manual-do-bixo/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-25.4.0_aed9ace568cf2b50ad65d8fc5074e13f0259d5a3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mariana/Desktop/manual-do-bixo/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-plus/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="272bc5d7063f24bc3a33ea1d318cde8f31f5ec4c">
+        <dex dex="/home/mariana/Desktop/manual-do-bixo/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-plus-7.5.0_ef1c32841b896e6e49b98dded077aab39731959c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mariana/Desktop/manual-do-bixo/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-panorama/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="ba207be21987c11b37d9f8faa08ed6e722569f30">
+        <dex dex="/home/mariana/Desktop/manual-do-bixo/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-panorama-7.5.0_3559fb521d5db6de59b7e92032814546a07da754.jar" />
+    </item>
+
+</items>

@@ -1,0 +1,41 @@
+Aciepe, ACIEPE.html
+Ajuste de Inscrição em Disciplinas e/ou Atividades Curriculares, AJUSTEINSC.html
+Aproveitamento de Crédito, APROVEITAMENTO.html
+Atividades Complementares, ATIVIDADESCOMP.html
+CACIC, CACIC.html
+Cancelamento de Inscrição em Disciplina, CANCELAMENTODISC.html
+Cancelamento de Matrícula, CANCELAMENTOMATRI.html
+Carteirinha de Estudante, CARTEIRINHA.html
+CATI Jr - Empresa Junior de Computação, CATI.html
+Centro Acadêmico De Engenharia de Computação (CAEnC), CAENC.html
+Conclusão de Curso e Colação de Grau, CONCLUSAOCURSO.html
+Conselho de Coordenação de Curso, CONSELHOCOORD.html
+Coordenação de Curso - Email e Ramal, LINKSUTEIS.html
+Critérios de Aprovação em Disciplinas, CRITERIOSAPROV.html
+Critérios para Ocupação de Vagas para Disciplinas em Caráter de Recuperação e Avanço de Perfil, CRITERIOSOCUP.html
+Cursos de Especialização (lato Sensu),CURSOESPEC.html
+Diferença Entre Trancamento e Cancelamento, DIFERENCATRANCA.html
+Disciplinas Optativas, DISCIPLINASOPT.html
+Email Institucional (@comp) e lista Alunos@comp, EMAILINST.html
+Estágio, ESTAGIO.html
+Exercícios Domiciliares, EXERCICIOSDOM.html
+Índice de Rendimento Acadêmico (IRA), IRA.html
+Iniciação Científica (ic), IC.html
+Inscrição em Disciplinas e/ou Atividades Curriculares, INSCRDISC.html
+Links Úteis, LINKSUTEIS.html
+Monitorias, MONITORIAS.html
+Órgãos Importantes,     ORGAOSFREQUENTES.html
+SECOMP, SECOMP.html
+Sistemas Acadêmicos, SISTEMASACADEMICOS.html
+Matrícula, MATRICULA.html
+Organização do Currículo, ORGANIZACAOCURRICULO.html
+Prazo para Concluir o Curso, PRAZO.html
+PET, PET.html
+PET – Bcc, PETBCC.html
+PET – Enc, PETENC.html
+Pós-graduação em Ciência da Computação (stricto Sensu), POSGRAD.html
+Trancamento de Matrícula, TRANCAMENTOMATR.html
+Recurso, RECURSOS.html
+Reenquadramento de Perfil, REENQUADRAMENTO.html
+Revisão de Provas, REVISAOPROVA.html
+Transferência de Curso, TRANSFERENCIA.html
